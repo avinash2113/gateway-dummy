@@ -6,7 +6,7 @@ pipeline
 
     }
 
-    }
+
 	stages
 	{
 
@@ -29,3 +29,4 @@ pipeline
         }
 
     }
+}
